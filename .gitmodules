@@ -1,0 +1,3 @@
+[submodule "EncryptDecryptFP/deps/Lunaris-Encryption"]
+	path = EncryptDecryptFP/deps/Lunaris-Encryption
+	url = https://www.github.com/LunarisLib/Lunaris-Encryption
